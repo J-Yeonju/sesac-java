@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7baa67dd-37b2-4191-8982-6683e4973d72" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesac-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/InputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/ConditionalStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/LoopControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Practice2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c81f0bce-57fe-41f9-adad-5e0bbe0d2e5f" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2b1Rl2mzylAqZHlRDpkFuSbAYOo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/SBA_USER/IdeaProjects/sesac-java/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "애플리케이션.Casting.executor": "Run",
+    "애플리케이션.ConditionalStatement.executor": "Run",
+    "애플리케이션.DataTypes.executor": "Run",
+    "애플리케이션.InputOutput.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.Method.executor": "Run",
+    "애플리케이션.Operator.executor": "Run",
+    "애플리케이션.Practice1.executor": "Run",
+    "애플리케이션.Practice2.executor": "Run"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="7baa67dd-37b2-4191-8982-6683e4973d72" name="변경" comment="" />
+      <created>1705380746520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705380746520</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
