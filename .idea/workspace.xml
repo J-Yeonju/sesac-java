@@ -4,26 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7baa67dd-37b2-4191-8982-6683e4973d72" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesac-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/InputOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_basic_syntax/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/ConditionalStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/LoopControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Practice2.java" afterDir="false" />
+    <list default="true" id="7baa67dd-37b2-4191-8982-6683e4973d72" name="변경" comment="&quot;study: java&quot;">
+      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_array/Array01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_array/Array02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_array/ArrayEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_array/ArrayListEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +28,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "J-Yeonju"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="c81f0bce-57fe-41f9-adad-5e0bbe0d2e5f" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c81f0bce-57fe-41f9-adad-5e0bbe0d2e5f" />
+        <option name="url" value="https://github.com/J-Yeonju/sesac-java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -63,7 +65,8 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/SBA_USER/IdeaProjects/sesac-java/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "애플리케이션.ArrayEx.executor": "Run",
     "애플리케이션.Casting.executor": "Run",
     "애플리케이션.ConditionalStatement.executor": "Run",
     "애플리케이션.DataTypes.executor": "Run",
@@ -72,7 +75,9 @@
     "애플리케이션.Method.executor": "Run",
     "애플리케이션.Operator.executor": "Run",
     "애플리케이션.Practice1.executor": "Run",
-    "애플리케이션.Practice2.executor": "Run"
+    "애플리케이션.Practice2.executor": "Run",
+    "애플리케이션.Practice3.executor": "Run",
+    "애플리케이션.Practice4.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -91,6 +96,15 @@
       <option name="presentableId" value="Default" />
       <updated>1705380746520</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;study: java&quot;">
+      <option name="closed" value="true" />
+      <created>1705399613860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705399613860</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;study: java&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;study: java&quot;" />
   </component>
 </project>
