@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7baa67dd-37b2-4191-8982-6683e4973d72" name="변경" comment="&quot;study: java&quot;">
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array/Array01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array/Array02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array/ArrayEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array/ArrayListEx.java" afterDir="false" />
+    <list default="true" id="7baa67dd-37b2-4191-8982-6683e4973d72" name="변경" comment="&quot;study: java_Array&quot;">
+      <change afterPath="$PROJECT_DIR$/src/_04_exception/ExceptionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_exception/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_exception/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_exception/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_class/_01_class/ClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_class/_01_class/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_class/_01_class/Rectangle01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_class/_01_class/Rectangle02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,16 +72,23 @@
     "애플리케이션.Casting.executor": "Run",
     "애플리케이션.ConditionalStatement.executor": "Run",
     "애플리케이션.DataTypes.executor": "Run",
+    "애플리케이션.ExceptionEx.executor": "Run",
     "애플리케이션.InputOutput.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Method.executor": "Run",
     "애플리케이션.Operator.executor": "Run",
+    "애플리케이션.Person.executor": "Run",
     "애플리케이션.Practice1.executor": "Run",
     "애플리케이션.Practice2.executor": "Run",
     "애플리케이션.Practice3.executor": "Run",
     "애플리케이션.Practice4.executor": "Run"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_04_exception" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705399613860</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;study: java_Array&quot;">
+      <option name="closed" value="true" />
+      <created>1705570740084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705570740084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;study: java&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;study: java&quot;" />
+    <MESSAGE value="&quot;study: java_Array&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;study: java_Array&quot;" />
   </component>
 </project>
